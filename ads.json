@@ -1,8 +1,8 @@
 {
 	"splish_open":"1",
-	"reader_banner_open":"0",
-	"reader_native_open":"0",
-	"video_detail_open":"0",
+	"reader_banner_open":"1",
+	"reader_native_open":"1",
+	"video_detail_open":"1",
 	"detail_reward_open":"1",
 	"bookdetail_banner_open":"1",
 	"inShenhe":"0"
